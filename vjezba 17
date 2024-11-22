@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <style>
+            h1{
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                text-shadow: 3px 2px grey;
+                word-spacing: 10px;
+                text-align: center;
+            }
+            p{
+                font-family: 'Macondo', cursive;
+                text-indent:50px ;
+                text-align: right;
+            }
+            p.prvi{
+                font-family: 'Courier New', Courier, monospace;
+                line-height: 1.8;
+                letter-spacing: 2px;
+                
+            }
+            p.drugi{
+                word-spacing: 10px;
+             
+             
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Lorem iPsum</h1>
+        <p class="prvi">
+            "asdfghjklčćqwertzuiopšđasdfghjklčćčlkjhgfdsasdfghjklčkjhgfdsasdfghjklčćlkjhgfdsadfghjklčćlkjhgfdsfghjkl"
+        </p>
+        <p class="drugi">
+            "yxcvbnm,mnbvcxyxcvbnmnbvcxvbnbvcxvbnmbvcxcvbnmnbvcxvbnmbvdfsertzujkmnbvfghzjnbvcfghzjnbvfghjnbvgfhnbvfghbvfhgnbvfgh"
+
+        </p>
+    </body>
+</html>
